@@ -15,7 +15,7 @@ class App extends Component {
   }
 
   doSomething(){
-    console.log("Hello");
+    console.log("Shell");
   }
   
   
